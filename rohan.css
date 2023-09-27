@@ -1,7 +1,7 @@
 div {
   color: red;
-  height: 100px;
+  height: 100rem;
   font-family: 'Courier New', Courier, monospace;
-  font-size: 20px;
+  font-size: 20rem;
   background-color: rgb(48, 141, 172);
 }
